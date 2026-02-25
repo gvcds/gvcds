@@ -38,16 +38,17 @@ Para facilitar a visualização, dividi as tecnologias com as quais trabalho por
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gvcds&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gvcds&theme=gruvbox_light&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvcds&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvcds&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=gvcds&theme=gruvbox_light&hide_border=false)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvcds&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gvcds&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![Profile Views](https://visitcount.itsvg.in/api?id=gvcds&icon=0&color=0)](https://visitcount.itsvg.in)gn="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gvcds&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
