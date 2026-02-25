@@ -37,6 +37,3 @@ Sou apaixonado por tecnologia, qualidade de software e automação. Atualmente, 
 ## 📊 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gvcds&theme=default&hide_border=true)
-
----
-[![Profile Views](https://visitcount.itsvg.in/api?id=gvcds&icon=0&color=0)](https://visitcount.itsvg.in)
