@@ -4,10 +4,10 @@
   
   <p>
     <a href="https://www.linkedin.com/in/testsvic/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
     <a href="https://instagram.com/gvc.silva" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge">
     </a>
   </p>
 </div>
@@ -42,16 +42,6 @@ I am a Quality Assurance (QA) professional specializing in test automation and q
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gvcds&theme=default&show_icons=true&hide_border=true&count_private=true" alt="gvcds's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=gvcds&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=gvcds&theme=default&hide_border=true" width="48%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvcds&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=gvcds&theme=default&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="48%" />
-</div>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=gvcds&icon=0&color=0" alt="Profile Views">
-  </a>
 </div>
