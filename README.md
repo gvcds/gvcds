@@ -42,6 +42,6 @@ I am a Quality Assurance (QA) professional specializing in test automation and q
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gvcds&theme=default&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=gvcds&theme=dark&hide_border=true" width="48%" />
   <br/>
 </div>
